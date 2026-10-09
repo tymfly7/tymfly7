@@ -11,12 +11,12 @@ I graduated in electrical engineering from Brno University of Technology in 2026
 
 ## What I work with
 
-- **Backend:** Python, FastAPI, PostgreSQL, Redis, Docker
-- **Frontend:** React, TypeScript, Tailwind
+- **Backend:** Python, FastAPI, Node.js, PostgreSQL, Redis, Docker
+- **Frontend:** React, TypeScript, JavaScript, HTML, CSS, Tailwind
 - **Machine learning:** PyTorch, OpenCV, NCNN on Raspberry Pi
 - **Embedded:** ESP32, MicroPython, C and C++ (coursework)
 - **Testing:** pytest, ruff, mypy, GitHub Actions
-- **Others:** JavaScript, HTML, CSS, Node.js, C#, Rust
+- **Also used, less deeply:** C#, Rust
 
 ## Contact
 
