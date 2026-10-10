@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 
 I graduated in electrical engineering from Brno University of Technology in 2026. I build full-stack and embedded software, mostly in Python. I am based in Brno.
 
